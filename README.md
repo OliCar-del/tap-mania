@@ -2,7 +2,7 @@
 
 ## Overview
 
-**tpmania** is a miniaturized arcade rhythm and dance game designed to be played with your fingers. Inspired by classic rhythm games like *Dance Dance Revolution*, *StepMania*, and *Guitar Hero*, tpmania brings the arcade experience to a desktop form factor.
+**tap-mania** is a miniaturized arcade rhythm and dance game designed to be played with your fingers. Inspired by classic rhythm games like *Dance Dance Revolution*, *StepMania*, and *Guitar Hero*, tap-mania brings the arcade experience to a desktop form factor.
 
 Players follow rhythm cues displayed on a 16x4 LED matrix and must press the corresponding colored arcade buttons in time with the music. The game tracks your accuracy, calculates your score, and builds combo multipliers based on your timing.
 
@@ -12,12 +12,12 @@ Players follow rhythm cues displayed on a 16x4 LED matrix and must press the cor
 * **Standalone Gameplay:** Fully functional without a PC. Load your favorite `.wav` tracks and `.tsq` sequence files onto a microSD card, plug it in, and select your song using the built-in OLED display.
 * **Audio Output:** Integrated 3.5mm audio jack with volume control, capable of driving standard 32-ohm headphones or speakers.
 * **Dynamic Scoring & Combos:** Earn points based on timing accuracy (Perfect!, Good!, OK, Poor, Miss) and build up a combo counter for successive accurate hits.
-* **Customizable Difficulty:** Connect the device to the tpmania PC GUI to customize your timing windows (stored directly on the device's non-volatile memory).
+* **Customizable Difficulty:** Connect the device to the tap-mania PC GUI to customize your timing windows (stored directly on the device's non-volatile memory).
 * **Portable:** Powered by a rechargeable 3.7V LiPo battery with USB charging capabilities.
 
 ## Hardware Specifications
 
-To build or understand the hardware architecture of tpmania, the following core components are utilized:
+To build or understand the hardware architecture of tap-mania, the following core components are utilized:
 
 * **Microcontroller / USB Interface:** Uses a primary MCU connected via a custom USB bridge (utilizing the `polyglot-turtle-xiao` firmware).
 * **LED Matrix:** 16x4 WS2812B RGB LED matrix.
@@ -29,7 +29,7 @@ To build or understand the hardware architecture of tpmania, the following core 
 
 ## PC Companion Application
 
-The tpmania ecosystem includes a PC-based graphical user interface (GUI) that communicates with the device over USB.
+The tap-mania ecosystem includes a PC-based graphical user interface (GUI) that communicates with the device over USB.
 
 **Using the GUI, you can:**
 
@@ -56,7 +56,7 @@ The tpmania ecosystem includes a PC-based graphical user interface (GUI) that co
 
 ## Custom Sequences (.tsq Format)
 
-tpmania uses a custom, lightweight text format for its beatmaps (`.tsq`).
+tap-mania uses a custom, lightweight text format for its beatmaps (`.tsq`).
 
 ### File Structure
 
@@ -102,7 +102,7 @@ Sequences are grouped into "bars" of 4 rows (or 8 rows for half-beats), separate
 *The file must end with a semicolon (`;`). Any audio file associated with the beatmap must share the exact same filename (e.g., `song.tsq` and `song.wav`) and be placed on the SD card.*
 
 > ## Deep Dive Documentation
-If you are looking to understand the internal workings of tpmania, modify the codebase, or review the hardware design, please refer to our detailed documentation:
+If you are looking to understand the internal workings of tap-mania, modify the codebase, or review the hardware design, please refer to our detailed documentation:
 
 * 🧠 [Software Architecture & Execution Flow](ARCHITECTURE.md) - Details on the internal state machine, FatFs implementation, scoring logic, and hardware abstraction.
 * ⚡ [Hardware & PCB Design](HARDWARE.md) - Details on the Altium schematics, power delivery (LiPo/USB), and signal routing.
