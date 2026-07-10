@@ -2,7 +2,7 @@
 
 ## Overview
 
-**tap-mania** is a miniaturized arcade rhythm and dance game designed to be played with your fingers. Inspired by classic rhythm games like *Dance Dance Revolution*, *StepMania*, and *Guitar Hero*, tap-mania brings the arcade experience to a desktop form factor.
+**tap-mania** is a miniaturized arcade rhythm and dance game designed to be played with your fingers. Inspired by classic rhythm games like *Dance Dance Revolution*, *StepMania*, and *Guitar Hero*, tpmania brings the arcade experience to a desktop form factor.
 
 Players follow rhythm cues displayed on a 16x4 LED matrix and must press the corresponding colored arcade buttons in time with the music. The game tracks your accuracy, calculates your score, and builds combo multipliers based on your timing.
 
