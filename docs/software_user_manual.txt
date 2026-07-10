@@ -1,4 +1,4 @@
-tpmania Configuration Tool – User Guide
+tpmania Configuration Tool – User Guide for GUI
 Overview
 
 This tool is used to configure the tpmania game device via a serial connection.
