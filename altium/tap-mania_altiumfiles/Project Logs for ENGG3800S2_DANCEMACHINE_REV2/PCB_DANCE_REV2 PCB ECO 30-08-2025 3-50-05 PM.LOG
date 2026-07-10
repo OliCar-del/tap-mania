@@ -1,0 +1,190 @@
+Change Component Comment : Designator=J4 Old Comment=1742428-1 New Comment=2.8mm Terminal
+Change Component Comment : Designator=J5 Old Comment=1742428-1 New Comment=2.8mm Terminal
+Change Component Description : Designator=J4 Old Description=Connector New Description=2.8mm Spade Lug Connector 1742428-1
+Change Component Description : Designator=J5 Old Description=Connector New Description=Connector 1742428-1
+Added Component: Designator=C31(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl05b104ka5nnnc/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/372989.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL05B104KA5NNNC?qs=Efv9o2T6U88DLyyMSzjXSQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "Capacitor CAP CER 0.1UF 25V X7R 0402 CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl05b104ka5nnnc/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/372989.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL05B104KA5NNNC?qs=Efv9o2T6U88DLyyMSzjXSQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "Capacitor CAP CER 0.1UF 25V X7R 0402 CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl05b104ka5nnnc/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/372989.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL05B104KA5NNNC?qs=Efv9o2T6U88DLyyMSzjXSQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "Capacitor CAP CER 0.1UF 25V X7R 0402 CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl05b104ka5nnnc/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/372989.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL05B104KA5NNNC?qs=Efv9o2T6U88DLyyMSzjXSQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "Capacitor CAP CER 0.1UF 25V X7R 0402 CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=J4(17424281)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1742428-1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1742428%7FB%7Fpdf%7FEnglish%7FENG_CD_1742428_B_baseFilename.pdf%7F1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1742428-1?qs=%252BGGIKoiLAWkw3iMz3TrvdA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(17424281)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1742428-1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1742428%7FB%7Fpdf%7FEnglish%7FENG_CD_1742428_B_baseFilename.pdf%7F1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1742428-1?qs=%252BGGIKoiLAWkw3iMz3TrvdA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(17424281)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1742428-1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1742428%7FB%7Fpdf%7FEnglish%7FENG_CD_1742428_B_baseFilename.pdf%7F1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1742428-1?qs=%252BGGIKoiLAWkw3iMz3TrvdA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(17424281)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1742428-1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1742428%7FB%7Fpdf%7FEnglish%7FENG_CD_1742428_B_baseFilename.pdf%7F1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1742428-1?qs=%252BGGIKoiLAWkw3iMz3TrvdA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(17424281)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1742428-1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1742428%7FB%7Fpdf%7FEnglish%7FENG_CD_1742428_B_baseFilename.pdf%7F1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1742428-1?qs=%252BGGIKoiLAWkw3iMz3TrvdA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(17424281)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1742428-1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1742428%7FB%7Fpdf%7FEnglish%7FENG_CD_1742428_B_baseFilename.pdf%7F1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1742428-1?qs=%252BGGIKoiLAWkw3iMz3TrvdA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P4(61300211121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.94mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "20081794"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD3300F"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD3300F"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD3300F"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESC1608X55X30ML20T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1JTTD3300F"; VariantName = "[No Variations]"
+Added Component: Designator=R27(SURFM RESISTOR)
+Added Component: Designator=R28(SURFM RESISTOR)
+Added Component: Designator=R29(SURFM RESISTOR)
+Added Component: Designator=R30(SURFM RESISTOR)
+Added Component: Designator=SB4(SOLDER BRIDGE OPEN SMALL)
+Added Component: Designator=SB5(SOLDER BRIDGE OPEN SMALL)
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=NetC32_2 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=NetC31_2 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetP6_1 Pin=C?-2
+Added Pin To Net: NetName=NetP6_2 Pin=C?-2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetC31_2 Pin=J?-1
+Added Pin To Net: NetName=NetC32_2 Pin=J?-1
+Added Pin To Net: NetName=NetP6_1 Pin=J?-1
+Added Pin To Net: NetName=NetP6_2 Pin=J?-1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_1 Pin=R23-1
+Added Pin To Net: NetName=+3V3 Pin=R23-2
+Added Pin To Net: NetName=NetP4_2 Pin=R24-1
+Added Pin To Net: NetName=+3V3 Pin=R24-2
+Added Pin To Net: NetName=NetJ4_1 Pin=R25-1
+Added Pin To Net: NetName=+3V3 Pin=R25-2
+Added Pin To Net: NetName=NetJ5_1 Pin=R26-1
+Added Pin To Net: NetName=+3V3 Pin=R26-2
+Added Pin To Net: NetName=+3V3 Pin=R27-1
+Added Pin To Net: NetName=NetC31_2 Pin=R27-2
+Added Pin To Net: NetName=+3V3 Pin=R28-1
+Added Pin To Net: NetName=NetP6_2 Pin=R28-2
+Added Pin To Net: NetName=+3V3 Pin=R29-1
+Added Pin To Net: NetName=NetP6_1 Pin=R29-2
+Added Pin To Net: NetName=+3V3 Pin=R30-1
+Added Pin To Net: NetName=NetC32_2 Pin=R30-2
+Added Pin To Net: NetName=+3V3 Pin=SB4-1
+Added Pin To Net: NetName=+3V3 Pin=SB4-2
+Added Pin To Net: NetName=+3V3 Pin=SB5-1
+Added Pin To Net: NetName=+3V3 Pin=SB5-2
+Change Net Name : Old Net Name=NetC32_2 New Net Name=NetC31_2
+Change Net Name : Old Net Name=NetP6_1 New Net Name=YELLOW_PB
+Change Net Name : Old Net Name=NetP6_2 New Net Name=BLUE_PB
+Added Class: Name=JOYSTICK
+Added Member To Class: ClassName=TP_STD_PERIPHERALS Member=Component H2 Mounting Hole
+Added Room: Name=AUDIO_REV2
+Added Room: Name=JOYSTICK

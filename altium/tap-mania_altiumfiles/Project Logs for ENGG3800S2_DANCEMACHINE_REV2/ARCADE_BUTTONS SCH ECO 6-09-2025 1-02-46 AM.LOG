@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=* NewDesignator=U10
+Change Net Color : Net Name= +3V3 Old Net Color=Default New Net Color=Aqua
+Change Net Color : Net Name= BATT_IN Old Net Color=Default New Net Color=Fuchsia
+Change Net Color : Net Name= BLUE_LED Old Net Color=Default New Net Color=Lime
+Change Net Color : Net Name= BLUE_PB Old Net Color=Default New Net Color=RGB(255, 238, 0)
+Change Net Color : Net Name= DEBUG_RX Old Net Color=Default New Net Color=RGB(255, 240, 255)
+Change Net Color : Net Name= DEBUG_TX Old Net Color=Default New Net Color=RGB(255, 240, 255)
+Change Net Color : Net Name= GREEN_LED Old Net Color=Default New Net Color=Lime
+Change Net Color : Net Name= PB_Red Old Net Color=Default New Net Color=RGB(255, 238, 0)
+Change Net Color : Net Name= PROG_RST Old Net Color=Default New Net Color=White
+Change Net Color : Net Name= PROG_SWCLK Old Net Color=Default New Net Color=White
+Change Net Color : Net Name= PROG_SWDIO Old Net Color=Default New Net Color=White
+Change Net Color : Net Name= PROG_SWO Old Net Color=Default New Net Color=White
+Change Net Color : Net Name= RED_LED Old Net Color=Default New Net Color=Lime
+Change Net Color : Net Name= SD_CD Old Net Color=Default New Net Color=RGB(219, 51, 129)
+Change Net Color : Net Name= SD_CS Old Net Color=Default New Net Color=RGB(219, 51, 129)
+Change Net Color : Net Name= SD_MISO Old Net Color=Default New Net Color=RGB(219, 51, 129)
+Change Net Color : Net Name= SD_MOSI Old Net Color=Default New Net Color=RGB(219, 51, 129)
+Change Net Color : Net Name= SD_SCK Old Net Color=Default New Net Color=RGB(219, 51, 129)
+Change Net Color : Net Name= USB_D_N Old Net Color=Default New Net Color=RGB(204, 195, 225)
+Change Net Color : Net Name= USB_D_P Old Net Color=Default New Net Color=RGB(204, 195, 225)
+Change Net Color : Net Name= USB_P_N Old Net Color=Default New Net Color=RGB(204, 195, 225)
+Change Net Color : Net Name= USB_P_P Old Net Color=Default New Net Color=RGB(204, 195, 225)
+Change Net Color : Net Name= V_BATT Old Net Color=Default New Net Color=Fuchsia
+Change Net Color : Net Name= VBUS_DETECT Old Net Color=Default New Net Color=RGB(255, 246, 129)
+Change Net Color : Net Name= VIN Old Net Color=Default New Net Color=RGB(255, 246, 129)
+Change Net Color : Net Name= YELLOW_LED Old Net Color=Default New Net Color=Lime

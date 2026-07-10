@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C31 NewDesignator=C34
+Change Component Designator: OldDesignator=C34 NewDesignator=C31
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=POWER_REV2 Member=SW7
+Added Component: Designator=SW?(SWITCH_PANELMOUNT)
+Added Pin To Net: NetName=SW Pin=*-22
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V
+Added Member To Class: ClassName=POWER_REV2 Member=Component SW? DPST

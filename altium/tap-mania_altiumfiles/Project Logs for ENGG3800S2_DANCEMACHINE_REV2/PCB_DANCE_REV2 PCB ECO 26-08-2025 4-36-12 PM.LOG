@@ -1,0 +1,39 @@
+Change Component Comment : Designator=J2 Old Comment=MicroSD reader New Comment=MicroSD Socket
+Added Component: Designator=L?(INDPM125125X800N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DR127-2R2-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dr127-2r2-r/eaton?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-dr-high-power-density-high-efficiency-shielded-drum-core-power-inductors-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DR127-2R2-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "704-DR127-2R2-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Coiltronics-Eaton/DR127-2R2-R?qs=yzwxPInThYTHN3YSS9rsbA%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Added Pin To Net: NetName=SYS Pin=*-22
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin TP11-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Added Member To Class: ClassName=POWER_BATT_REV2 Member=Component L? DR127-2R2-R
+Add Class Member: Failed to add class member : Component TP1 VIN
+Add Class Member: Failed to add class member : Component TP3 VCC
+Add Class Member: Failed to add class member : Component TP5 AGND
+Add Class Member: Failed to add class member : Component TP6 SYS
+Add Class Member: Failed to add class member : Component TP8 SYS
+Add Class Member: Failed to add class member : Component TP9 BATT
+Add Class Member: Failed to add class member : Component TP10 NTC
+Add Class Member: Failed to add class member : Component TP11 PGND
+Add Class Member: Failed to add class member : Component TP12 SYS

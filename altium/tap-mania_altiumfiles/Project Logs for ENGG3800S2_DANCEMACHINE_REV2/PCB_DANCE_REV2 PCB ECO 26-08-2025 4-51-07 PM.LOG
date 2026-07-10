@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=L1 Old Footprint=IND/Murata/LQH88PN New Footprint=BOUR-SRN8040_V
+Change Component Comment : Designator=L1 Old Comment=INDUCTOR New Comment=SRN8040-2R2Y
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Added Pin To Net: NetName=SYS Pin=*-22
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin TP11-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Add Class Member: Failed to add class member : Component TP1 VIN
+Add Class Member: Failed to add class member : Component TP3 VCC
+Add Class Member: Failed to add class member : Component TP5 AGND
+Add Class Member: Failed to add class member : Component TP6 SYS
+Add Class Member: Failed to add class member : Component TP8 SYS
+Add Class Member: Failed to add class member : Component TP9 BATT
+Add Class Member: Failed to add class member : Component TP10 NTC
+Add Class Member: Failed to add class member : Component TP11 PGND
+Add Class Member: Failed to add class member : Component TP12 SYS
+Added Room: Name=AUDIO_REV2
+Added Room: Name=INTERFACE_rev2
+Added Room: Name=MCU_REV2
+Added Room: Name=POWER_BATT_REV2

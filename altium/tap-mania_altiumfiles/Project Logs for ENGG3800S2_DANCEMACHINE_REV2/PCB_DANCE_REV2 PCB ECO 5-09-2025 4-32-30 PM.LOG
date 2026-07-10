@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SW Pin=*-22
+Added Pin To Net: NetName=GREEN_PB Pin=C31-2
+Added Pin To Net: NetName=GREEN_PB Pin=J9-1
+Added Pin To Net: NetName=GREEN_PB Pin=R30-2
+Added Pin To Net: NetName=GREEN_PB Pin=U1-20
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

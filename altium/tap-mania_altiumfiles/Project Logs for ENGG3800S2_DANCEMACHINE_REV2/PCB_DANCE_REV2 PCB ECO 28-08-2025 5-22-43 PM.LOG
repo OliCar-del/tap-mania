@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Added Component: Designator=H1(M3_MOUNTING_HOLE_3_4_mm)
+Added Component: Designator=H2(M3_MOUNTING_HOLE_3_4_mm)
+Added Component: Designator=H3(M3_MOUNTING_HOLE_3_4_mm)
+Added Component: Designator=H4(M3_MOUNTING_HOLE_3_4_mm)
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ4_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=R26-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U1-38
+Added Net: Name=NetJ5_1
+Added Member To Class: ClassName=TP_STD_PERIPHERALS Member=Component H1 Mounting Hole
+Added Member To Class: ClassName=TP_STD_PERIPHERALS Member=Component H2 Mounting Hole
+Added Member To Class: ClassName=TP_STD_PERIPHERALS Member=Component H3 Mounting Hole
+Added Member To Class: ClassName=TP_STD_PERIPHERALS Member=Component H4 Mounting Hole
+Added Member To Class: ClassName=INTERFACE_rev2 Member=Component J4 1742428-1

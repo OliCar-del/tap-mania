@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Room: Name=AUDIO_REV2
+Added Room: Name=INTERFACE_rev2
+Added Room: Name=MCU_REV2
+Added Room: Name=POWER_BATT_REV2
+Added Room: Name=POWER_REV2
+Added Room: Name=SD_CARD_REV2
+Added Room: Name=TP_STD_PERIPHERALS

@@ -1,0 +1,84 @@
+Added Component: Designator=C36(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://psearch.en.murata.com/capacitor/product/GRM188R71H104KA93%23.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "42675.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "10GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Pin To Net: NetName=NetC39_1 Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Change Net Name : Old Net Name=NetC39_1 New Net Name=NetC36_1
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(78, 32, 119) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 217, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(86, 119, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Added Member To Class: ClassName=MCU_REV2 Member=Component C13 0.1uF
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V
+Add Class Member: Failed to add class member : Component L2 FBMH1608HM601-T
+Added Room: Name=ARCADE_BUTTONS
+Added Room: Name=AUDIO_REV2
+Added Room: Name=INTERFACE_rev2
+Added Room: Name=MCU_REV2
+Added Room: Name=POWER_BATT_REV2
+Added Room: Name=POWER_REV2
+Added Room: Name=SD_CARD_REV2
+Added Room: Name=TP_STD_PERIPHERALS

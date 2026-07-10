@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=V_BATT Pin=P2-1
+Removed Pin From Net: NetName=BATT_IN Pin=SW7-1
+Removed Member From Class: ClassName=SD_CARD_REV2 Member=SB4
+Added Pin To Net: NetName=V_BATT Pin=F1-2
+Added Pin To Net: NetName=BATT_IN Pin=P2-2
+Added Pin To Net: NetName=SYS Pin=U1-22
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=SW7-1
+Added Net: Name=NetP2_1
+Added Member To Class: ClassName=SD_CARD_REV2 Member=Component SB7 Solder Bridge

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SD_MOSI Pin=R32-2
+Removed Pin From Net: NetName=+3V3 Pin=R38-1
+Removed Pin From Net: NetName=SD_MOSI Pin=U1-17
+Added Pin To Net: NetName=SD_MOSI Pin=J2-3
+Added Pin To Net: NetName=SD_MOSI Pin=R32-1
+Added Pin To Net: NetName=+3V3 Pin=R32-2
+Added Pin To Net: NetName=SW Pin=U10-22
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=U1-17
+Added Net: Name=NetR38_1

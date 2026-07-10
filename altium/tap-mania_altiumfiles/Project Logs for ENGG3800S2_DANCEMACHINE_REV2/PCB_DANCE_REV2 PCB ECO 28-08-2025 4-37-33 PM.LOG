@@ -1,0 +1,31 @@
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=J?
+Removed Member From Class: ClassName=INTERFACE_rev2 Member=P5
+Added Component: Designator=J4(17424281)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1742428-1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1742428%7FB%7Fpdf%7FEnglish%7FENG_CD_1742428_B_baseFilename.pdf%7F1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1742428-1?qs=%252BGGIKoiLAWkw3iMz3TrvdA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(17424281)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1742428-1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1742428%7FB%7Fpdf%7FEnglish%7FENG_CD_1742428_B_baseFilename.pdf%7F1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1742428-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1742428-1?qs=%252BGGIKoiLAWkw3iMz3TrvdA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R25-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U1-41
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=R26-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U1-38
+Added Net: Name=NetJ5_1
+Added Member To Class: ClassName=INTERFACE_rev2 Member=Component J4 1742428-1
+Added Member To Class: ClassName=INTERFACE_rev2 Member=Component J5 1742428-1

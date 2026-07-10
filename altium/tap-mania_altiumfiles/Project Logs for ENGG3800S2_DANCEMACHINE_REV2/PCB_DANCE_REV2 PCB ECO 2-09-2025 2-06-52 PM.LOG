@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetJ2_2 Pin=U1-18
+Removed Pin From Net: NetName=NetC24_2 Pin=U1-19
+Removed Pin From Net: NetName=NetC22_2 Pin=U1-20
+Removed Pin From Net: NetName=GREEN_PB Pin=U1-25
+Removed Pin From Net: NetName=RED_PB Pin=U1-26
+Removed Pin From Net: NetName=GREEN_LED Pin=U1-27
+Removed Pin From Net: NetName=YELLOW_LED Pin=U1-28
+Removed Pin From Net: NetName=BLUE_LED Pin=U1-38
+Removed Pin From Net: NetName=BLUE_PB Pin=U1-40
+Removed Pin From Net: NetName=RED_LED Pin=U1-41
+Removed Pin From Net: NetName=YELLOW_PB Pin=U1-45
+Removed Pin From Net: NetName=BEAT_LED Pin=U1-46
+Added Pin To Net: NetName=GREEN_PB Pin=U1-18
+Added Pin To Net: NetName=RED_PB Pin=U1-19
+Added Pin To Net: NetName=BLUE_PB Pin=U1-20
+Added Pin To Net: NetName=NetJ2_2 Pin=U1-22
+Added Pin To Net: NetName=BEAT_LED Pin=U1-28
+Added Pin To Net: NetName=GREEN_LED Pin=U1-29
+Added Pin To Net: NetName=RED_LED Pin=U1-30
+Added Pin To Net: NetName=BLUE_LED Pin=U1-31
+Added Pin To Net: NetName=YELLOW_LED Pin=U1-38
+Added Pin To Net: NetName=YELLOW_PB Pin=U1-40
+Added Pin To Net: NetName=NetC22_2 Pin=U1-41
+Added Pin To Net: NetName=NetC24_2 Pin=U1-45
+Added Pin To Net: NetName=NetU1_25 Pin=U1-25
+Added Pin To Net: NetName=NetU1_25 Pin=U3-16
+Added Net: Name=NetU1_25
+Added Pin To Net: NetName=NetU1_26 Pin=U1-26
+Added Pin To Net: NetName=NetU1_26 Pin=U3-14
+Added Net: Name=NetU1_26
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Pin To Net: NetName=NetU1_27 Pin=U3-1
+Added Net: Name=NetU1_27
+Add Differential Pair: Number of nets in differential pair USB_DN_UP is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DP_UP is 1 instead of 2
+Added Member To Class: ClassName=POWER_REV2 Member=Component C21 1uF
+Added Member To Class: ClassName=POWER_REV2 Member=Component R40  5.1K OHM 1% 1/10W

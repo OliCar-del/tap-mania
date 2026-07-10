@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=SW Pin=*-22
+Added Pin To Net: NetName=NetU1_32 Pin=U1-32
+Added Net: Name=NetU1_32
+Added Pin To Net: NetName=NetU1_33 Pin=U1-33
+Added Net: Name=NetU1_33
+Added Pin To Net: NetName=USB_P_N Pin=IC1-15
+Added Net: Name=USB_P_N
+Added Pin To Net: NetName=USB_P_P Pin=IC1-14
+Added Net: Name=USB_P_P
+Added Differential Pair: Name=USB_P

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SYS Pin=*-22
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=SD_CS
+Change Net Name : Old Net Name=NetR10_1 New Net Name=SD_CD
+Change Net Name : Old Net Name=NetR31_1 New Net Name=SD_MISO
+Change Net Name : Old Net Name=NetR32_1 New Net Name=SD_MOSI
+Change Net Name : Old Net Name=NetR35_1 New Net Name=SD_SCK

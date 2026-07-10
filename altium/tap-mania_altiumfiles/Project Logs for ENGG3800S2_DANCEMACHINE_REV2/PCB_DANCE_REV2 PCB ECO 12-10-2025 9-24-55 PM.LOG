@@ -1,0 +1,39 @@
+Added Component: Designator=U6(XIAO - 6mm annular)
+Add component (AddParameter): Name = "Category"; Value = "DSPs - Digital Signal Processors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/102010328_Web.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/102010328_Web.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "ARM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Evaluation Kit"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Seeed Studio"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "102010328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=5.4 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SAM D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1597-102010328-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR18_1 Pin=U6-7
+Added Pin To Net: NetName=NetR20_1 Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-13
+Added Pin To Net: NetName=NetSW7_2 Pin=U6-14
+Add Class Member: Failed to add class member : Component HW1 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW2 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW3 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW4 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW5 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW6 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW7 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW8 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW9 NUT M3
+Add Class Member: Failed to add class member : Component HW10 NUT M3
+Add Class Member: Failed to add class member : Component HW11 NUT M2
+Add Class Member: Failed to add class member : Component HW12 NUT M2
+Add Class Member: Failed to add class member : Component HW13 NUT M3
+Add Class Member: Failed to add class member : Component HW14 NUT M3
+Add Class Member: Failed to add class member : Component HW15 NUT M2
+Add Class Member: Failed to add class member : Component HW16 NUT M2
+Add Class Member: Failed to add class member : Component HW17 STANDOFF M3
+Add Class Member: Failed to add class member : Component HW18 STANDOFF M3
+Add Class Member: Failed to add class member : Component HW19 STANDOFF M3
+Add Class Member: Failed to add class member : Component HW20 STANDOFF M3
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component U6 SEEEDUINO

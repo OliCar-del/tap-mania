@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=CTMR-1
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=CTMR
+Change Component Footprint: Designator=P4 Old Footprint=61300211121 New Footprint=61300211121
+Added Pin To Net: NetName=GND Pin=*-13
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component C35 0.1uF
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J12 2.8mm Terminal

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+3V3 Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+3V3 Pin=P6-1
+Added Pin To Net: NetName=SYS Pin=U1-22
+Add Class Member: Failed to add class member : Component HW1 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW2 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW3 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW4 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW5 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW6 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW7 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW8 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW9 NUT M3
+Add Class Member: Failed to add class member : Component HW10 NUT M3
+Add Class Member: Failed to add class member : Component HW11 NUT M2
+Add Class Member: Failed to add class member : Component HW12 NUT M2
+Add Class Member: Failed to add class member : Component HW13 NUT M3
+Add Class Member: Failed to add class member : Component HW14 NUT M3
+Add Class Member: Failed to add class member : Component HW15 NUT M2
+Add Class Member: Failed to add class member : Component HW16 NUT M2
+Add Class Member: Failed to add class member : Component HW17 STANDOFF M3
+Add Class Member: Failed to add class member : Component HW18 STANDOFF M3
+Add Class Member: Failed to add class member : Component HW19 STANDOFF M3
+Add Class Member: Failed to add class member : Component HW20 STANDOFF M3

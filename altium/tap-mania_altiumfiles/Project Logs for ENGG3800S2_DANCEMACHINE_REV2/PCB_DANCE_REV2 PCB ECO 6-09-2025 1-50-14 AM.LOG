@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=POWER_REV2 Member=SW?
+Added Component: Designator=SW7(SWITCH_PANELMOUNT)
+Added Member To Class: ClassName=POWER_REV2 Member=Component SW7 DPST

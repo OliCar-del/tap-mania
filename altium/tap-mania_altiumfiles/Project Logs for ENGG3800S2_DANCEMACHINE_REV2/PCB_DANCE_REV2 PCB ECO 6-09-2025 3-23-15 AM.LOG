@@ -1,0 +1,8 @@
+Added Component: Designator=SB8(SOLDER BRIDGE OPEN SMALL)
+Added Component: Designator=SB9(SOLDER BRIDGE OPEN SMALL)
+Added Pin To Net: NetName=+3V3 Pin=SB8-1
+Added Pin To Net: NetName=+3V3 Pin=SB8-2
+Added Pin To Net: NetName=+3V3 Pin=SB9-1
+Added Pin To Net: NetName=+3V3 Pin=SB9-2
+Added Member To Class: ClassName=POWER_REV2 Member=Component SB8 Solder Bridge
+Added Member To Class: ClassName=POWER_REV2 Member=Component SB9 Solder Bridge

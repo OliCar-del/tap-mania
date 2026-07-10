@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=BATT_IN Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Added Component: Designator=J2(JST-B2B-PH-K-S_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B2B-PH-K-S%28LF%29%28SN%29-JST-datasheet-8324864.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Nov-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=SB8(SOLDER BRIDGE OPEN SMALL)
+Added Pin To Net: NetName=BATT_IN Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=V_SYS_IN Pin=SB8-1
+Added Pin To Net: NetName=V_SYS_IN Pin=SB8-2
+Added Pin To Net: NetName=SYS Pin=U1-22
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J1 JST_PH 2.0 Male Header
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component J2 JST_PH 2.0 Male Header
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component SB8 Solder Bridge

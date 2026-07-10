@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=USB_DN Pin=IC1-14
+Removed Pin From Net: NetName=USB_DP Pin=IC1-15
+Added Pin To Net: NetName=SW Pin=*-22
+Added Pin To Net: NetName=USB_DP Pin=IC1-14
+Added Pin To Net: NetName=USB_DN Pin=IC1-15
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(78, 32, 119) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(207, 153, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 240, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Added Room: Name=AUDIO_REV2
+Added Room: Name=INTERFACE_rev2
+Added Room: Name=MCU_REV2
+Added Room: Name=POWER_BATT_REV2
+Added Room: Name=POWER_REV2
+Added Room: Name=SD_CARD_REV2
+Added Room: Name=TP_STD_PERIPHERALS

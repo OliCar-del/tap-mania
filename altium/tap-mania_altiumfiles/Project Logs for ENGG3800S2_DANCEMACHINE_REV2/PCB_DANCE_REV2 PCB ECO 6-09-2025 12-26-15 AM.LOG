@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=DEBUG_RX Pin=IC2-7
+Removed Pin From Net: NetName=DEBUG_TX Pin=IC2-8
+Added Pin To Net: NetName=NetIC2_7 Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_7 Pin=P1-2
+Added Pin To Net: NetName=NetIC2_7 Pin=R12-1
+Added Net: Name=NetIC2_7
+Added Pin To Net: NetName=NetIC2_8 Pin=IC2-8
+Added Pin To Net: NetName=NetIC2_8 Pin=P1-1
+Added Pin To Net: NetName=NetIC2_8 Pin=R8-1
+Added Net: Name=NetIC2_8
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

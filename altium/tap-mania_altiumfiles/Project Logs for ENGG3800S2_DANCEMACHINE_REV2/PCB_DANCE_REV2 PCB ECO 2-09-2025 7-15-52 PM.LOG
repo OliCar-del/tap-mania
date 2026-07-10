@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=JPGND2-1
+Removed Pin From Net: NetName=VIN Pin=JVIN-1
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=JPGND2
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=JVIN
+Added Pin To Net: NetName=SYS Pin=*-22
+Add Differential Pair: Number of nets in differential pair USB_DN_UP is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DP_UP is 1 instead of 2
+Added Member To Class: ClassName=POWER_REV2 Member=Component C21 1uF

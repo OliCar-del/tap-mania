@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Pin To Net: NetName=USB_D_P Pin=J3-B6
+Added Pin To Net: NetName=USB_D_N Pin=J3-B7

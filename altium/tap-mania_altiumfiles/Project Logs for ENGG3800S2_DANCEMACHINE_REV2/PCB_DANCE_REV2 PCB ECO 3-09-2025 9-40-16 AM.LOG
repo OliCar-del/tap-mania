@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=V_SYS_IN Pin=J?-1
+Removed Member From Class: ClassName=TP_STD_PERIPHERALS Member=J?
+Change Component Designator: OldDesignator=J? NewDesignator=J14
+Change Component Designator: OldDesignator=SB4 NewDesignator=SB3
+Add Component: Footprint Not Found 0022285034
+Add Pin To Net: Unknown Pin: Pin J13-1
+Add Pin To Net: Unknown Pin: Pin J13-3
+Added Pin To Net: NetName=GND Pin=J14-1
+Added Pin To Net: NetName=NetJ13_2 Pin=U1-10
+Added Net: Name=NetJ13_2
+Add Class Member: Failed to add class member : Component J13 CONN HEADER VERT 3POS 2.54MM

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C13 NewDesignator=C?
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V
+Added Member To Class: ClassName=MCU_REV2 Member=Component C? 0.1uF

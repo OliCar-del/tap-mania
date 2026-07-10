@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=SYS Pin=U1-22
+Change Net Name : Old Net Name=NetR22_2 New Net Name=LED_G
+Change Net Name : Old Net Name=NetR35_2 New Net Name=LED_B
+Change Net Name : Old Net Name=NetR36_2 New Net Name=LED_Y
+Change Net Name : Old Net Name=RED_LED New Net Name=LED_R
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Added Member To Class: ClassName=TP_STD_PERIPHERALS Member=Component H4 Mounting Hole
+Added Member To Class: ClassName=POWER_REV2 Member=Component P4 61300211121
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component SW7 DPST
+Added Member To Class: ClassName=POWER_BATT_REV2 Member=Component TP2 Small testpoint 40mil

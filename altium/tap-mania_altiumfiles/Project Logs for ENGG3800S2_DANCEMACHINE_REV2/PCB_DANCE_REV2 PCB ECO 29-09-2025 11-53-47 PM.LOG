@@ -1,0 +1,21 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=F1
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=J1
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=P2
+Removed Member From Class: ClassName=MCU_REV2 Member=P6
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=TP1
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=TP2
+Added Component: Designator=J2(JST-B2B-PH-K-S_V)
+Added Component: Designator=SB8(SOLDER BRIDGE OPEN SMALL)
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Added Pin To Net: NetName=V_SYS_IN Pin=SB8-1
+Added Pin To Net: NetName=V_SYS_IN Pin=SB8-2
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component F1 0ZCG0300FF2B
+Add Class Member: Failed to add class member : Component J2 JST_PH 2.0 Male Header
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component P2 61300211121
+Added Member To Class: ClassName=TP_STD_PERIPHERALS Member=Component P6 61300211121
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component SB8 Solder Bridge
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component TP1 Small testpoint 40mil
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component TP2 Small testpoint 40mil

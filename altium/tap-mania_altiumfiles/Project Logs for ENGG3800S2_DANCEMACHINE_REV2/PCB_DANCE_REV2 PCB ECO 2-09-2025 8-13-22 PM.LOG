@@ -1,0 +1,7 @@
+Change Component Comment : Designator=C21 Old Comment= 1 µF ±10% 25V New Comment=1 µF ±10% 25V
+Change Component Comment : Designator=R39 Old Comment= 5.1K OHM 1% 1/10W New Comment=5.1K OHM 1% 1/10W
+Change Component Comment : Designator=R40 Old Comment= 5.1K OHM 1% 1/10W New Comment=5.1K OHM 1% 1/10W
+Added Pin To Net: NetName=SW Pin=*-22
+Add Differential Pair: Number of nets in differential pair USB_DN_UP is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DP_UP is 1 instead of 2
+Added Member To Class: ClassName=POWER_REV2 Member=Component C21 1uF

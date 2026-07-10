@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VIN Pin=C37-2
+Removed Pin From Net: NetName=VIN Pin=IC1-10
+Removed Pin From Net: NetName=VIN Pin=SB4-1
+Added Pin To Net: NetName=SW Pin=*-22
+Added Pin To Net: NetName=NetC39_2 Pin=C37-2
+Added Pin To Net: NetName=NetC39_2 Pin=IC1-10
+Added Pin To Net: NetName=NetC39_2 Pin=SB4-1
+Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC37_2
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

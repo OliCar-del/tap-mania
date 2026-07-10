@@ -1,0 +1,4 @@
+Added Component: Designator=SB6(SOLDER BRIDGE OPEN SMALL)
+Added Pin To Net: NetName=+3V3 Pin=SB6-1
+Added Pin To Net: NetName=+3V3 Pin=SB6-2
+Added Member To Class: ClassName=SD_CARD_REV2 Member=Component SB6 Solder Bridge

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GREEN_PB Pin=C34-2
+Removed Pin From Net: NetName=GREEN_PB Pin=J9-1
+Removed Pin From Net: NetName=GREEN_PB Pin=R30-2
+Change Component Designator: OldDesignator=C32 NewDesignator=C34
+Change Component Designator: OldDesignator=C34 NewDesignator=C32
+Change Component Designator: OldDesignator=R28 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Added Pin To Net: NetName=SW Pin=*-22
+Added Pin To Net: NetName=BLUE_PB Pin=C32-2
+Added Pin To Net: NetName=BLUE_PB Pin=J9-1
+Added Pin To Net: NetName=BLUE_PB Pin=R28-2
+Added Pin To Net: NetName=BLUE_PB Pin=U1-20
+Added Net: Name=BLUE_PB
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

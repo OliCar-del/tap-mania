@@ -1,0 +1,21 @@
+GUI:
+1.psutil
+Name of library: 
+Psutil
+The link to the post on the discussion forum post where the library was approved:
+(3) ENGG3800 - 2025 sem 2 – Ed Discussion
+Link to library repository:
+https://github.com/giampaolo/psutil
+License library is published under (BSD, MIT, GPLv2, etc):
+BSD License (BSD-3-Clause) 
+
+2.pyserial
+Name of library:
+pySerial
+The link to the post on the discussion forum post where the library was approved:
+(3) ENGG3800 - 2025 sem 2 – Ed Discussion
+Link to library repository:
+https://github.com/pyserial/pyserial
+License library is published under (BSD, MIT, GPLv2, etc):
+BSD-3-Clause
+https://github.com/pyserial/pyserial/blob/master/LICENSE.txt

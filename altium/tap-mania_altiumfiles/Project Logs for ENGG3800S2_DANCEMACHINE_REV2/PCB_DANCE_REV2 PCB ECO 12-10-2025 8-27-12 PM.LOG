@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=FID? NewDesignator=FID5
+Change Component Designator: OldDesignator=FID? NewDesignator=FID6
+Change Component Designator: OldDesignator=J1 NewDesignator=P1
+Added Pin To Net: NetName=SYS Pin=U1-22
+Added Member To Class: ClassName=TP_STD_PERIPHERALS Member=Component FID6 Fiducial Mark
+Add Class Member: Failed to add class member : Component HW1 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW2 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW3 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW4 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW5 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW6 SCREW M3 x 25mm
+Add Class Member: Failed to add class member : Component HW7 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW8 SCREW M2 x 25mm
+Add Class Member: Failed to add class member : Component HW9 NUT M3
+Add Class Member: Failed to add class member : Component HW10 NUT M3
+Add Class Member: Failed to add class member : Component HW11 NUT M2
+Add Class Member: Failed to add class member : Component HW12 NUT M2
+Add Class Member: Failed to add class member : Component HW13 NUT M3
+Add Class Member: Failed to add class member : Component HW14 NUT M3
+Add Class Member: Failed to add class member : Component HW15 NUT M2
+Add Class Member: Failed to add class member : Component HW16 NUT M2
+Add Class Member: Failed to add class member : Component HW17 STANDOFF M3
+Add Class Member: Failed to add class member : Component HW18 STANDOFF M3
+Add Class Member: Failed to add class member : Component HW19 STANDOFF M3
+Add Class Member: Failed to add class member : Component HW20 STANDOFF M3

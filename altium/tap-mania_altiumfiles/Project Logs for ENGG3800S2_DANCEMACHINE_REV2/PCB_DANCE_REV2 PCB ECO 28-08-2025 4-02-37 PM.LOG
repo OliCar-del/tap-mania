@@ -1,0 +1,79 @@
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=TP2
+Change Component Footprint: Designator=R17 Old Footprint=SURFM RESISTOR New Footprint=RESC2012X60N
+Change Component Comment : Designator=R17 Old Comment=RES/0603 New Comment=10kOhm
+Change component parameters: Designator = "R17" ("R17"); Footprint = "SURFM RESISTOR"; UniqueID = "\IJEWREJJ" ("\IJEWREJJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805jr-0710kl/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RC0805JR-0710KL.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805JR-0710KL?qs=ZFGQJeMQzF5q%2Fp77vM%2FrVQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805jr-0710kl/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RC0805JR-0710KL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805JR-0710KL?qs=ZFGQJeMQzF5q%2Fp77vM%2FrVQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805jr-0710kl/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RC0805JR-0710KL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805JR-0710KL?qs=ZFGQJeMQzF5q%2Fp77vM%2FrVQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805jr-0710kl/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RC0805JR-0710KL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805JR-0710KL?qs=ZFGQJeMQzF5q%2Fp77vM%2FrVQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805jr-0710kl/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RC0805JR-0710KL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805JR-0710KL?qs=ZFGQJeMQzF5q%2Fp77vM%2FrVQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805jr-0710kl/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RC0805JR-0710KL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805JR-0710KL?qs=ZFGQJeMQzF5q%2Fp77vM%2FrVQ%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/1MM
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=+3V3 Pin=R10-2
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Pin To Net: NetName=+3V3 Pin=R31-2
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Pin To Net: NetName=+3V3 Pin=R32-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R33-1
+Added Pin To Net: NetName=+3V3 Pin=R33-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R34-1
+Added Pin To Net: NetName=+3V3 Pin=R34-2
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Added Member To Class: ClassName=SD_CARD_REV2 Member=Component R10 10kOhm
+Added Member To Class: ClassName=SD_CARD_REV2 Member=Component R31 10kOhm
+Added Member To Class: ClassName=SD_CARD_REV2 Member=Component R32 10kOhm
+Added Member To Class: ClassName=SD_CARD_REV2 Member=Component R33 10kOhm
+Added Member To Class: ClassName=SD_CARD_REV2 Member=Component R34 10kOhm
+Add Class Member: Failed to add class member : Component TP10 NTC
+Add Class Member: Failed to add class member : Component TP12 SYS

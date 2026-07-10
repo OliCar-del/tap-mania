@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GREEN_PB Pin=U1-18
+Removed Pin From Net: NetName=BLUE_PB Pin=U1-20
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Pin To Net: NetName=BLUE_PB Pin=U1-18
+Added Pin To Net: NetName=GREEN_PB Pin=U1-20
+Change Net Name : Old Net Name=BLUE_PB New Net Name=GREEN_PB
+Change Net Name : Old Net Name=GREEN_PB New Net Name=BLUE_PB
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

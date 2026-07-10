@@ -1,0 +1,23 @@
+# Build directories and generated objects
+Debug/
+Release/
+*.su
+*.cyclo
+*.o
+*.d
+*.list
+*.elf
+*.hex
+*.bin
+
+# STM32CubeIDE / Eclipse Metadata & Logs
+.metadata/
+*.log
+.ide.log
+
+# C/C++ Language Server Caches
+.clangd/
+
+# Executables - keep gui
+
+GUI/__pycache__/

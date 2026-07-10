@@ -1,0 +1,24 @@
+Added Component: Designator=C13(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl05b104ka5nnnc/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/372989.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL05B104KA5NNNC?qs=Efv9o2T6U88DLyyMSzjXSQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "Capacitor CAP CER 0.1UF 25V X7R 0402 CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=DISP?(OLED_I2C_4pinHEADER)
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3V3 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=DISP?-1
+Added Pin To Net: NetName=+3V3 Pin=DISP?-2
+Added Pin To Net: NetName=NetDISP?_3 Pin=DISP?-3
+Added Pin To Net: NetName=NetDISP?_3 Pin=U1-42
+Added Net: Name=NetDISP?_3
+Added Pin To Net: NetName=NetDISP?_4 Pin=DISP?-4
+Added Pin To Net: NetName=NetDISP?_4 Pin=U1-43
+Added Net: Name=NetDISP?_4
+Added Member To Class: ClassName=MCU_REV2 Member=Component C13 0.1uF
+Added Member To Class: ClassName=MCU_REV2 Member=Component DISP? I2C OLED Display

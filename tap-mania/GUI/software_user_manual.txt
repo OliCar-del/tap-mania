@@ -1,0 +1,85 @@
+tpmania Configuration Tool – User Guide
+Overview
+
+This tool is used to configure the tpmania game device via a serial connection.
+It provides the following main functions:
+
+Configure and read scoring timing windows
+
+Manage microSD card files (.tsq / .wav)
+
+Convert Blackboard sample files into usable .tsq files
+
+View serial console logs and debug messages
+
+
+1. Serial Connection
+
+Click “Refresh” to scan for available serial ports.
+
+Select the correct port from the dropdown list (e.g., COM3).
+
+Click “Connect” to open the serial connection.
+
+The status label will turn green (“Connected”) on success.
+
+If connection fails, an error message will appear.
+
+
+2. Timing Windows Configuration
+
+In the “Scoring Timing Windows (ms)” section, enter values for the four levels: Perfect, Good, OK, and Poor.
+
+Click “Write to Device” to send the settings to the MCU.
+
+The tool automatically divides each value by 2 before sending.
+
+Any MCU response will be displayed in the right-side console.
+
+Click “Read from Device” to read the current timing windows from the MCU.
+
+Click “Restore Defaults” to reset all windows to default values.
+
+
+3. microSD File Management
+
+Click “SD Card Path” to select the microSD root directory, or choose a detected drive from the dropdown.
+
+The listbox will display all .tsq and .wav files in the selected directory.
+
+Use the following buttons to manage files:
+
+Add File – Copy a file to the SD card folder
+
+Delete File – Delete selected files
+
+File Info – View metadata of a .tsq file (BPM, name, artist, difficulty, and estimated length)
+
+Reload – Manually refresh the displayed list
+
+
+4. Blackboard File Conversion
+
+Click “Browse” to select a Blackboard .csv or .tsq file.
+
+Click “Convert & Write to SD” to convert the file to .tsq format and save it to the SD card.
+
+If the file is .csv, a minimal .tsq header (e.g., BPM and difficulty) is automatically added.
+
+
+5. Serial Port Console
+
+Type a command in the input box and press Enter or click “Send Command” to send it to the device.
+
+The device’s responses and logs will appear in the black console window.
+
+Click “List Serial” to display all available serial devices using PowerShell.
+
+
+Notes
+
+The serial baud rate is fixed at 115200.
+
+If no response is received, ensure that the MCU sends a serial echo after processing commands.
+
+Required Python packages: psutil, pyserial, and tkinter.

@@ -1,0 +1,18 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [ENGG3800S2_DANCEMACHINE_REV2.PrjPcb]
+   Generated File[PCB_DANCE_REV2_Copper_Signal_Top.gbr]
+   Generated File[PCB_DANCE_REV2_Copper_Signal_Bot.gbr]
+   Generated File[PCB_DANCE_REV2_Legend_Top.gbr]
+   Generated File[PCB_DANCE_REV2_Legend_Bot.gbr]
+   Generated File[PCB_DANCE_REV2_Soldermask_Top.gbr]
+   Generated File[PCB_DANCE_REV2_Soldermask_Bot.gbr]
+   Generated File[PCB_DANCE_REV2_Profile.gbr]
+   Generated File[PCB_DANCE_REV2_NPTH_Drill.gbr]
+   Generated File[PCB_DANCE_REV2_PTH_Drill.gbr]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 11:56:53 PM On 12/10/2025

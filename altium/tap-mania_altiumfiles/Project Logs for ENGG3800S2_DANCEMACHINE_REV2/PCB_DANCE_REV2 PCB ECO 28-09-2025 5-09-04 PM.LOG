@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=P1-1
+Removed Pin From Net: NetName=BATT_IN Pin=P1-2
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=P1
+Added Pin To Net: NetName=SYS Pin=U1-22
+Added Room: Name=3.3V_SUPPLY
+Added Room: Name=MCU_REV2
+Added Room: Name=SD_CARD_REV2

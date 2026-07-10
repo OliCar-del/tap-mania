@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJ13_2 Pin=U1-10
+Removed Pin From Net: NetName=PB_U Pin=U1-11
+Change Component Comment : Designator=C39 Old Comment=10nF ±10% 16V  X7R  New Comment=10nF ±10% 16V  X7R
+Added Pin To Net: NetName=SW Pin=*-22
+Added Pin To Net: NetName=PB_U Pin=U1-10
+Added Pin To Net: NetName=NetJ13_2 Pin=U1-11
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

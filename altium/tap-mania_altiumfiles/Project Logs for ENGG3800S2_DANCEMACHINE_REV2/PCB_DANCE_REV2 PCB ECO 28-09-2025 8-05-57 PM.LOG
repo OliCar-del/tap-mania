@@ -1,0 +1,5 @@
+Added Component: Designator=SB7(SOLDER BRIDGE OPEN SMALL)
+Added Pin To Net: NetName=+3V3 Pin=SB7-1
+Added Pin To Net: NetName=+3V3 Pin=SB7-2
+Added Pin To Net: NetName=SYS Pin=U1-22
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component SB7 Solder Bridge

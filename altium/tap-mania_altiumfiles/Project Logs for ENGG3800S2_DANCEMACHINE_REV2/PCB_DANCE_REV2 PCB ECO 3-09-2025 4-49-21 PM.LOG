@@ -1,0 +1,7 @@
+Add Component: Footprint Not Found BEADC1608X90N
+Added Pin To Net: NetName=SW Pin=*-22
+Add Pin To Net: Unknown Pin: Pin FB?-1
+Add Pin To Net: Unknown Pin: Pin FB?-2
+Added Member To Class: ClassName=MCU_REV2 Member=Component C13 0.1uF
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V
+Add Class Member: Failed to add class member : Component FB? FBMH1608HM601-T

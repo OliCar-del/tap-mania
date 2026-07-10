@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=BATT_IN Pin=SW7-1
+Removed Member From Class: ClassName=3.3V_SUPPLY Member=SW7
+Change Footprint: Footprint Not Found RES/0603
+Add Component: Footprint Not Found RES/0603
+Add Component: Footprint Not Found RES/0603
+Add Component: Footprint Not Found RES/0603
+Added Component: Designator=SW?(SWITCH_PCB_MOUNT)
+Add Pin To Net: Unknown Pin: Pin R43-1
+Add Pin To Net: Unknown Pin: Pin R43-2
+Add Pin To Net: Unknown Pin: Pin R44-1
+Add Pin To Net: Unknown Pin: Pin R44-2
+Add Pin To Net: Unknown Pin: Pin R46-1
+Add Pin To Net: Unknown Pin: Pin R46-2
+Added Pin To Net: NetName=BATT_IN Pin=SW?-1
+Added Pin To Net: NetName=NetP4_1 Pin=SW?-3
+Added Pin To Net: NetName=NetF1_1 Pin=SW?-4
+Added Pin To Net: NetName=SW Pin=U1-22
+Added Pin To Net: NetName=NetSW?_2 Pin=SW?-2
+Added Pin To Net: NetName=NetSW?_2 Pin=U6-14
+Added Net: Name=NetSW?_2
+Add Class Member: Failed to add class member : Component R43 RES/0603
+Add Class Member: Failed to add class member : Component R44 RES/0603
+Add Class Member: Failed to add class member : Component R46 RES/0603
+Added Member To Class: ClassName=3.3V_SUPPLY Member=Component SW? DPST
+Added Room: Name=3.3V_SUPPLY
+Added Room: Name=ARCADE_BUTTONS
+Added Room: Name=AUDIO_REV2
+Added Room: Name=INTERFACE_rev2
+Added Room: Name=MCU_REV2
+Added Room: Name=POWER_BATT_REV2
+Added Room: Name=POWER_REV2
+Added Room: Name=SD_CARD_REV2
+Added Room: Name=TP_STD_PERIPHERALS

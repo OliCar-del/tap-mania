@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SYS Pin=JSYS2-1
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=JSYS2
+Add Differential Pair: Number of nets in differential pair USB_DN_UP is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DP_UP is 1 instead of 2
+Added Member To Class: ClassName=POWER_REV2 Member=Component C21 1uF
+Added Room: Name=AUDIO_REV2
+Added Room: Name=INTERFACE_rev2
+Added Room: Name=MCU_REV2
+Added Room: Name=POWER_BATT_REV2
+Added Room: Name=POWER_REV2
+Added Room: Name=SD_CARD_REV2
+Added Room: Name=TP_STD_PERIPHERALS

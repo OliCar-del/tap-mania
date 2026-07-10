@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=ARCADE_BUTTONS Member=C35
+Removed Member From Class: ClassName=ARCADE_BUTTONS Member=J8
+Change Component Designator: OldDesignator=C31 NewDesignator=C33
+Change Component Designator: OldDesignator=C32 NewDesignator=C31
+Change Component Designator: OldDesignator=C34 NewDesignator=C32
+Change Component Designator: OldDesignator=C35 NewDesignator=C34
+Change Component Designator: OldDesignator=J4 NewDesignator=J6
+Change Component Designator: OldDesignator=J5 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J4
+Change Component Designator: OldDesignator=J8 NewDesignator=J5
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R27
+Added Pin To Net: NetName=SW Pin=*-22
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component C33 0.1uF
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J6 2.8mm Terminal
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component R30 4.7 KOhm, +/- 1%, 0.1 W

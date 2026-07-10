@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=MCU_REV2 Member=C38
+Added Pin To Net: NetName=SYS Pin=*-22
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=POWER_LED
+Change Net Name : Old Net Name=POWER_LED New Net Name=+3V3
+Added Member To Class: ClassName=MCU_REV2 Member=Component C21 1uF

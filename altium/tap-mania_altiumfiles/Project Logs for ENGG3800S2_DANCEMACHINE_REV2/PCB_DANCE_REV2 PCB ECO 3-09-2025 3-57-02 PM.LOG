@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U4 Old Footprint=SJ13513N New Footprint=SJ13513N - stubby silk
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Member To Class: ClassName=MCU_REV2 Member=Component C13 0.1uF

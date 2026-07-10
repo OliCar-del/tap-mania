@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=SYS Pin=*-22
+Change Net Name : Old Net Name=NetC31_2 New Net Name=GREEN_PB
+Change Net Name : Old Net Name=NetC31_2 New Net Name=RED_PB
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=RED_LED
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=BLUE_LED
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=GREEN_LED
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=YELLOW_LED
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component C? 0.1uF
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal
+Added Member To Class: ClassName=INTERFACE_rev2 Member=Component P4 61300211121

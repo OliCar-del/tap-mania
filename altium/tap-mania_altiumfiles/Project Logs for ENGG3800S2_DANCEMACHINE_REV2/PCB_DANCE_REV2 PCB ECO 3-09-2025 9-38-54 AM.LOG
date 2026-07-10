@@ -1,0 +1,6 @@
+Add Component: Footprint Not Found 0022285034
+Added Pin To Net: NetName=V_SYS_IN Pin=J?-1
+Add Pin To Net: Unknown Pin: Pin J?-3
+Added Pin To Net: NetName=NetJ?_2 Pin=U1-10
+Added Net: Name=NetJ?_2
+Added Member To Class: ClassName=TP_STD_PERIPHERALS Member=Component J? CONN HEADER VERT 3POS 2.54MM

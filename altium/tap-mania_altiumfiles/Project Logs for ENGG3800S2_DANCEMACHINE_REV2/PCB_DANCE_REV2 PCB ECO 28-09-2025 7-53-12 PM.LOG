@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GREEN_PB Pin=U5-18
+Removed Pin From Net: NetName=PB_Red Pin=U5-19
+Added Pin To Net: NetName=SW Pin=U1-22
+Added Pin To Net: NetName=PB_Red Pin=U5-18
+Added Pin To Net: NetName=GREEN_PB Pin=U5-19

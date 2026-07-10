@@ -1,0 +1,4 @@
+Added Component: Designator=SW7(SWITCH_PANELMOUNT)
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V
+Added Member To Class: ClassName=POWER_REV2 Member=Component SW7 DPST

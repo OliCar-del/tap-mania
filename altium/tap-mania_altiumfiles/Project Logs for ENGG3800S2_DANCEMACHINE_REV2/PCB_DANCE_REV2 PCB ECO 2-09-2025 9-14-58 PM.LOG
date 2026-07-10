@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=MCU_REV2 Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Added Pin To Net: NetName=SYS Pin=*-22
+Add Differential Pair: Number of nets in differential pair USB_DN_UP is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DP_UP is 1 instead of 2
+Added Member To Class: ClassName=MCU_REV2 Member=Component C21 1uF
+Added Member To Class: ClassName=POWER_REV2 Member=Component C21 1uF

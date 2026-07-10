@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=SW Pin=*-22
+Change Net Name : Old Net Name=NetC19_2 New Net Name=PROG_RST
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=PROG_SWDIO
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=PROG_SWCLK
+Change Net Name : Old Net Name=NetJ1_6 New Net Name=PROG_SWO
+Change Net Name : Old Net Name=NetR8_2 New Net Name=DEBUG_TX
+Change Net Name : Old Net Name=NetR12_2 New Net Name=DEBUG_RX
+Change Net Name : Old Net Name=NetR13_2 New Net Name=BEAT_LED
+Change Net Name : Old Net Name=NetR14_1 New Net Name=BOOT_0
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=RGB(48, 0, 123) New Net Color=Default
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component C? 0.1uF
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component J? 2.8mm Terminal

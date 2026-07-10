@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC36_1 Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C39-2
+Change Component Footprint: Designator=C39 Old Footprint=CAPC1608X90N New Footprint=C0603
+Change Component Comment : Designator=C39 Old Comment=1 µF ±10% 25V New Comment=10nF ±10% 16V  X7R 
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1
+Change component parameters: Designator = "C39" ("C39"); Footprint = "CAPC1608X90N"; UniqueID = "\TMRAQYMF" ("\TMRAQYMF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0603C103K4RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0603c103k4rectu/kemet-corporation?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.87mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C103K4RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0603C103K4RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0603C103K4RECTU?qs=55YtniHzbhDzGaFFpCm8vg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW Pin=*-22
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=NetC36_1 Pin=C39-2
+Added Member To Class: ClassName=MCU_REV2 Member=Component C13 0.1uF
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

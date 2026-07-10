@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GREEN_PB Pin=C31-2
+Removed Pin From Net: NetName=GREEN_PB Pin=J11-1
+Removed Pin From Net: NetName=GREEN_PB Pin=R28-2
+Removed Pin From Net: NetName=GREEN_PB Pin=U1-20
+Added Pin To Net: NetName=SW Pin=*-22
+Added Pin To Net: NetName=BLUE_PB Pin=C31-2
+Added Pin To Net: NetName=BLUE_PB Pin=J11-1
+Added Pin To Net: NetName=BLUE_PB Pin=R28-2
+Added Pin To Net: NetName=BLUE_PB Pin=U1-20
+Added Net: Name=BLUE_PB
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component C34 0.1uF
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

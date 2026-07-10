@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3V3 Pin=IC2-12
+Removed Pin From Net: NetName=GND Pin=IC2-13
+Removed Member From Class: ClassName=POWER_REV2 Member=IC2
+Add Component: Footprint Not Found XIAO
+Add Pin To Net: Unknown Pin: Pin *-12
+Add Pin To Net: Unknown Pin: Pin *-13
+Added Pin To Net: NetName=SYS Pin=U10-22
+Added Pin To Net: NetName=Net*_7 Pin=P1-2
+Added Pin To Net: NetName=Net*_7 Pin=R12-1
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_8 Pin=P1-1
+Added Pin To Net: NetName=Net*_8 Pin=R8-1
+Added Net: Name=Net*_8
+Add Class Member: Failed to add class member : Component * SEEEDUINO

@@ -1,0 +1,43 @@
+Added Component: Designator=L?(BOUR-SRN8040_V)
+Add component (AddParameter): Name = "Brand/Series"; Value = "SRN8040Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current, Rating"; Value = "6.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "05/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "2.2µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 8 x 8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SRN8040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Power"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Added Pin To Net: NetName=SW Pin=*-22
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin TP11-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Added Member To Class: ClassName=POWER_BATT_REV2 Member=Component L? DR127-2R2-R
+Add Class Member: Failed to add class member : Component TP1 VIN
+Add Class Member: Failed to add class member : Component TP3 VCC
+Add Class Member: Failed to add class member : Component TP5 AGND
+Add Class Member: Failed to add class member : Component TP6 SYS
+Add Class Member: Failed to add class member : Component TP8 SYS
+Add Class Member: Failed to add class member : Component TP9 BATT
+Add Class Member: Failed to add class member : Component TP10 NTC
+Add Class Member: Failed to add class member : Component TP11 PGND
+Add Class Member: Failed to add class member : Component TP12 SYS

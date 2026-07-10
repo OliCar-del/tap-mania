@@ -1,0 +1,19 @@
+nucleol432kc_code/.cproject
+nucleol432kc_code/.mxproject
+nucleol432kc_code/.project
+nucleol432kc_code/.settings/
+nucleol432kc_code/Core/Inc/stm32l4xx_it.h
+nucleol432kc_code/Core/Src/stm32l4xx_hal_msp.c
+nucleol432kc_code/Core/Src/stm32l4xx_it.c
+nucleol432kc_code/Core/Src/syscalls.c
+nucleol432kc_code/Core/Src/sysmem.c
+nucleol432kc_code/Core/Src/system_stm32l4xx.c
+nucleol432kc_code/Core/Startup/
+nucleol432kc_code/Debug/
+nucleol432kc_code/Drivers/
+nucleol432kc_code/STM32L432KCUX_FLASH.ld
+nucleol432kc_code/demo Debug.launch
+*.o
+*.d
+*.map
+*.elf

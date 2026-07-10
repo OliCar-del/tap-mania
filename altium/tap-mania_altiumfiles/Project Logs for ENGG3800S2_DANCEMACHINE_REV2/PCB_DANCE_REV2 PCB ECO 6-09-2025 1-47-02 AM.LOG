@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=POWER_REV2 Member=SW7
+Added Component: Designator=SW?(SWITCH_PANELMOUNT)
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=Net*_4 New Net Name=NetL1_2
+Change Net Name : Old Net Name=Net*_7 New Net Name=NetROLM_2
+Change Net Name : Old Net Name=Net*_8 New Net Name=NetRISET_2
+Change Net Name : Old Net Name=Net*_12 New Net Name=NetR3_1
+Change Net Name : Old Net Name=Net*_14 New Net Name=NetRH_1
+Change Net Name : Old Net Name=Net*_15 New Net Name=NetRILIM_2
+Change Net Name : Old Net Name=Net*_17 New Net Name=NetR5_1
+Change Net Name : Old Net Name=Net*_18 New Net Name=NetR7_1
+Change Net Name : Old Net Name=Net*_19 New Net Name=NetR6_1
+Added Member To Class: ClassName=POWER_REV2 Member=Component SW? DPST

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=POWER_LED Pin=LED2-1
+Removed Pin From Net: NetName=+3V3 Pin=LED2-2
+Removed Pin From Net: NetName=POWER_LED Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=POWER_LED Pin=LED2-2
+Added Pin To Net: NetName=+3V3 Pin=R19-1
+Added Pin To Net: NetName=POWER_LED Pin=R19-2
+Added Pin To Net: NetName=SW Pin=U1-22

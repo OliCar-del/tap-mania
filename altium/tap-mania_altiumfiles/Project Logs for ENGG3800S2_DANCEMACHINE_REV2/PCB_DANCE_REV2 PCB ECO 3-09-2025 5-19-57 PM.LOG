@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SW Pin=*-22
+Added Member To Class: ClassName=MCU_REV2 Member=Component C13 0.1uF
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V

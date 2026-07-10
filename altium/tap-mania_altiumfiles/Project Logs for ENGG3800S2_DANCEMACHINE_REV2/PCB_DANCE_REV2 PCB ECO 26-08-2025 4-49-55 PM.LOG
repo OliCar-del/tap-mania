@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=POWER_BATT_REV2 Member=L?
+Change Component Footprint: Designator=L1 Old Footprint=IND/Murata/LQH88PN New Footprint=BOUR-SRN8040_V
+Change Component Comment : Designator=L1 Old Comment=INDUCTOR New Comment=SRN8040-2R2Y
+Change Managed Component Library Link : Designator=L1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=143DD835-0B24-4E4F-BF61-6BBD561140EA Old RevisionGUID= New RevisionGUID=77D0907C-4B15-4397-B2B6-7B931133BCDE
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND/Murata/LQH88PN"; UniqueID = "\JPSHIEMQ" ("\JPSHIEMQ")
+Change component parameters (AddParameter): Name = "Brand/Series"; Value = "SRN8040Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current, Rating"; Value = "6.3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "05/2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "2.2µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 8 x 8 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "SRN8040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±30%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Power"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Add Component: Footprint Not Found CONN/2MM
+Add Component: Footprint Not Found CONN/1MM
+Added Pin To Net: NetName=SYS Pin=*-22
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin TP11-1
+Add Pin To Net: Unknown Pin: Pin TP12-1
+Add Class Member: Failed to add class member : Component TP1 VIN
+Add Class Member: Failed to add class member : Component TP3 VCC
+Add Class Member: Failed to add class member : Component TP5 AGND
+Add Class Member: Failed to add class member : Component TP6 SYS
+Add Class Member: Failed to add class member : Component TP8 SYS
+Add Class Member: Failed to add class member : Component TP9 BATT
+Add Class Member: Failed to add class member : Component TP10 NTC
+Add Class Member: Failed to add class member : Component TP11 PGND
+Add Class Member: Failed to add class member : Component TP12 SYS

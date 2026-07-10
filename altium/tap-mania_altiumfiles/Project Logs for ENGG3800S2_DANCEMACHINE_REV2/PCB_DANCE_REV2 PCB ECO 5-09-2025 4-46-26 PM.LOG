@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R28 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Added Pin To Net: NetName=SYS Pin=*-22
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component C32 0.1uF
+Added Member To Class: ClassName=POWER_REV2 Member=Component C36 0.1 uF, +/- 10%, 50 V
+Added Member To Class: ClassName=ARCADE_BUTTONS Member=Component R30 4.7 KOhm, +/- 1%, 0.1 W

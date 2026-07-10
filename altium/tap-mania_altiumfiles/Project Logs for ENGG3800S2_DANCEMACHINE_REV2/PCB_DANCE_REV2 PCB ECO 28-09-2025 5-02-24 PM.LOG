@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=MCU_REV2 Member=P5
+Added Pin To Net: NetName=SYS Pin=U1-22
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U6-7
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U6-8
+Added Net: Name=NetR20_1
